@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "bx bx-at",
+    "title": "Email",
+    "link": "mailto:ragukiransaimadhuri@gmail.com",
+    "text": "vamsijavvadi8@gmail.com"
+  },
+  {
+    "icon": "bx bxl-whatsapp",
+    "title": "WhatsApp",
+    "link": "tel:+15618751855",u
+    "text": "+15618751855"
+  },
+  {
+    "title": "Linkedin",
+    "icon": "bx bxl-linkedin-square",
+    "link": "https://linkedin.com/in/vamsi-javvadi",
+    "text": "vamsi-javvadi"
+  }
+]

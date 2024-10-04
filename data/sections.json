@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "title": "VamsiJavvadi"
+  },
+  "hero": {
+    "title": "Full Stack Software Engineer",
+    "text": "Hi, I'm Vamsi Javvadi. A passionate Full Stack Software Engineer with expertise in frontend, backend and AI technologies",
+    "image": "/images/avatar/vamsi.jpeg"
+  },
+  "about": {
+    "title": "Full Stack Developer",
+    "text": "I love building scalable and efficient systems. I have experience in developing backend APIs, full stack applications, and contributing to AI projects. My skillset includes Java, Python, JavaScript, React, Next.js, Spring Boot, Django, and the list goes on. I thrive in solving complex problems and improving system performance.",
+    "subtitle": "About Me",
+    "image": "/images/about/about.webp"
+  },
+  "experience": [
+    {
+      "company": "HeadStarter",
+      "role": "Software Fellow",
+      "duration": "July 2024 – September 2024",
+      "logo": "/images/company/headstarter.png",
+      "points": [
+        "Collaborated with cross-functional teams to develop high-quality AI projects using RAG, Gemini, Next.js, and Pinecone.",
+        "Increased project efficiency by 30% and reduced deployment time by 25%."
+      ]
+    },
+    {
+      "company": "Flo-Ops",
+      "role": "Software Engineer Intern",
+      "duration": "June 2024 – July 2024",
+      "logo": "/images/company/floops.jpg",
+      "points": [
+        "Developed backend APIs with Django Rest Framework, containerized with Docker, and deployed on AWS ECS using Kubernetes.",
+        "Implemented Celery for real-time tasks, improving user experience by 35%.",
+        "Created a machine learning model for text extraction to retrieve student schedules and upload handwritten notes."
+      ]
+    },
+    {
+      "company": "Persistent Systems",
+      "role": "Full Stack Software Engineer",
+      "duration": "July 2022 – July 2023",
+      "logo": "/images/company/persistentsystems.jpg",
+      "points": [
+        "Developed and deployed 10+ microservices using Java SpringBoot with object-oriented design in an Agile environment.",
+        "Engineered full-stack web applications with React for frontend and Spring Boot for backend services.",
+        "Optimized SQL queries and redesigned relational database schemas in MySQL, enhancing data retrieval times by 30%."
+      ]
+    },
+    {
+      "company": "Persistent Systems",
+      "role": "Software Developer Intern",
+      "duration": "June 2021 – July 2022",
+      "logo": "/images/company/persistentsystems.jpg",
+      "points": [
+        "Collaborated with senior colleagues to architect components for Spring Boot and React full stack applications.",
+        "Developed an intern allocation project using Golang and React, improving allocation efficiency by 30%."
+      ]
+    }
+  ],
+  "education": {
+    "title": "Education",
+    "degrees": [
+      {
+        "institution": "Florida Atlantic University",
+        "degree": "Master of Science in Computer Science",
+        "location": "Boca Raton, FL",
+        "duration": "Expected May 2025",
+        "gpa": "GPA: 3.9/4.0"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Each project is a unique piece of development",
+    "subtitle": "PORTFOLIO"
+  },
+  "contact": {
+    "title": "Don't be shy! Hit me up! 👇",
+    "subtitle": "CONTACT"
+  }
+}
